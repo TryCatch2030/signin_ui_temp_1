@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.signin_ui_temp_1">
    <application
-        android:label="signin_ui_temp_1"
+        android:label="UI Sign IN"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
